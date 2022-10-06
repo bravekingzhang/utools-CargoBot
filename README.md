@@ -3,7 +3,7 @@
 ## uTools插件 - cargo-bot 编程练习
 
 <img src="https://github.com/bravekingzhang/utools-CargoBot/blob/main/run.png" alt="运行" style="width: 70%;" />
-<img src="https://github.com/bravekingzhang/utools-CargoBot/blob/main/run1.png" alt="运行" style="width: 70%;" />
+<img src="https://github.com/bravekingzhang/utools-CargoBot/blob/main/run2.png" alt="运行" style="width: 70%;" />
 
 
 ## changeLog
