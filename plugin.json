@@ -1,0 +1,27 @@
+{
+    "pluginName": "CargoBot 编程游戏",
+    "version": "0.0.1",
+    "description": "CargoBot 编程游戏",
+    "author": "brzhang",
+    "homepage": "https://github.com/bravekingzhang/utools-CargoBot",
+
+    "preload": "preload.js",
+    "logo": "logo.png",
+	"features": [
+		{
+		  "code": "cargo",
+		  "explain": "编程游戏，锻炼自己的算法能力",
+			"cmds":[
+				"cargoBot",
+				"CargoBot",
+				"编程游戏",
+				"算法",
+				"递归",
+				{
+					"type": "over",
+					"label": "CargoBot 编程游戏"
+				}
+			]
+		}
+	]
+}
